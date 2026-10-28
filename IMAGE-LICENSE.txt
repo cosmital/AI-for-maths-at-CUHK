@@ -5,12 +5,14 @@ Source: https://commons.wikimedia.org/wiki/File:The_South_Gate_.jpg
 License: Creative Commons Attribution-ShareAlike 4.0 International
 License URL: https://creativecommons.org/licenses/by-sa/4.0/
 
-Included file: assets/images/campus.jpg
-Provider-generated 1280 x 853 JPEG thumbnail, downloaded unchanged:
+Historical reference only: this photograph was referenced by the original
+HTML, but was absent from the checkout. It is not included or displayed in
+the current design proposal. If supplied later, retain this attribution.
+Previously referenced provider-generated 1280 x 853 JPEG thumbnail:
 https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/The_South_Gate_.jpg/1280px-The_South_Gate_.jpg
 
-The page layout crops the displayed photograph. The photograph and any
-adapted display crop remain under CC BY-SA 4.0. Retain the credit, source
+The photograph and any adapted display crop remain under CC BY-SA 4.0.
+Retain the credit, source
 and license link when publishing or redistributing the photograph.
 No endorsement by the photographer is implied. The historical photograph
 is campus illustration, not confirmation of the December event entrance.

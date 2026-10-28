@@ -50,7 +50,8 @@ Visit <http://localhost:8000>. Stop the server with **Ctrl+C**. This optional pr
 | `assets/js/event-config.js` | Shared event settings in `window.CONFERENCE`. |
 | `assets/css/` | Shared styling and responsive layouts. |
 | `assets/js/` | Configuration and small interface enhancements. |
-| `assets/images/campus.jpg` | Locally stored campus photograph. |
+| `assets/images/math-landscape.svg` | Original abstract mathematical illustration. |
+| `assets/images/math-lines.svg` | Original mathematical curves for the problem section. |
 
 ## First edits
 
@@ -123,8 +124,14 @@ For GitHub Pages, put the website files in the chosen repository's publishing fo
 
 Before announcing the link, replace the proposed event details with confirmed information and test the full registration flow from campus, a mainland mobile connection, and the WeChat browser. Check that external participants can use the form and see the practical instructions.
 
-## Image credit and sources
+## Design and interaction review
 
-The campus photograph is by **Jundouchen**, obtained through **Wikimedia Commons**, and licensed under **Creative Commons Attribution-ShareAlike 4.0**. See `credits.html` for the exact source and full attribution. Retain that attribution when publishing or redistributing this package. The photograph's license does not establish university endorsement of this event.
+The proposed design uses a shared warm-paper, navy, and terracotta palette, system sans-serif text, and serif headings. All artwork is local SVG, with no remote fonts, libraries, or build tools. Shared layouts stack on smaller screens; with JavaScript disabled, navigation stays visible and the full program remains readable.
+
+The mobile menu supports keyboard focus and Escape to close. Program filters reveal the full schedule for incoming session anchors, and printing always includes the full day. Registration stays closed unless an HTTPS form URL is explicitly configured. Calendar downloads remain tentative while `dateConfirmed` is `false`.
+
+## Artwork and sources
+
+The mathematical illustrations and favicon were created for this website and are not official university branding. They do not depict a campus map or confirm the event entrance. The original checkout referenced a campus photograph that was not included; this proposal uses abstract artwork instead. `IMAGE-LICENSE.txt` retains the historical photograph's source and attribution for reference if it is supplied in a future revision.
 
 The credits page also identifies sources used for historical background and travel information. Event-specific arrangements should be checked directly with the organizers before publication.
