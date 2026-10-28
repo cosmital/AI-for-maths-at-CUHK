@@ -50,6 +50,7 @@ Visit <http://localhost:8000>. Stop the server with **Ctrl+C**. This optional pr
 | `assets/js/event-config.js` | Shared event settings in `window.CONFERENCE`. |
 | `assets/css/` | Shared styling and responsive layouts. |
 | `assets/js/` | Configuration and small interface enhancements. |
+| `assets/images/cuhk-shenzhen.jpg` | Homepage campus photograph from the earlier AI Math Day event page. |
 | `assets/images/math-landscape.svg` | Original abstract mathematical illustration. |
 | `assets/images/math-lines.svg` | Original mathematical curves for the problem section. |
 
@@ -126,12 +127,12 @@ Before announcing the link, replace the proposed event details with confirmed in
 
 ## Design and interaction review
 
-The proposed design uses a shared warm-paper, navy, and terracotta palette, system sans-serif text, and serif headings. All artwork is local SVG, with no remote fonts, libraries, or build tools. Shared layouts stack on smaller screens; with JavaScript disabled, navigation stays visible and the full program remains readable.
+The proposed design uses a shared warm-paper, navy, and terracotta palette, system sans-serif text, and serif headings. Images are stored locally as JPEG and SVG, with no remote fonts, libraries, or build tools. Shared layouts stack on smaller screens; with JavaScript disabled, navigation stays visible and the full program remains readable.
 
 The mobile menu supports keyboard focus and Escape to close. Program filters reveal the full schedule for incoming session anchors, and printing always includes the full day. Registration stays closed unless an HTTPS form URL is explicitly configured. Calendar downloads remain tentative while `dateConfirmed` is `false`.
 
 ## Artwork and sources
 
-The mathematical illustrations and favicon were created for this website and are not official university branding. They do not depict a campus map or confirm the event entrance. The original checkout referenced a campus photograph that was not included; this proposal uses abstract artwork instead. `IMAGE-LICENSE.txt` retains the historical photograph's source and attribution for reference if it is supplied in a future revision.
+The mathematical illustrations and favicon were created for this website and are not official university branding. They do not depict a campus map or confirm the event entrance. The homepage campus photograph is the image used on the earlier AI Math Day event page, copied unchanged from its public source repository. See `credits.html#campus-photo` and `IMAGE-LICENSE.txt` for its source. The previously referenced Wikimedia photograph remains a historical reference and is not included.
 
 The credits page also identifies sources used for historical background and travel information. Event-specific arrangements should be checked directly with the organizers before publication.

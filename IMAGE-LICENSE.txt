@@ -1,3 +1,16 @@
+Current homepage campus photograph
+Included file: assets/images/cuhk-shenzhen.jpg
+Source event: https://rybindmitry.github.io/events/ai-math-day.html
+Source repository: https://github.com/rybindmitry/rybindmitry.github.io
+Source commit: 1fbb56e6be04d5a2821fcee3db6d0604b684ff1f
+Source file: images/CUHK-Shenzhen.jpg
+Image copied unchanged (2560 x 1709 JPEG); CSS crops its display to fit.
+The source image does not state a photographer or license. No attribution
+or license from the historical Wikimedia reference below is assigned to it.
+The photo illustrates campus, not a confirmed conference room or entrance.
+
+Historical Wikimedia reference (not included)
+--------------------------------------------
 Campus image: The South Gate .jpg
 Photographer: Jundouchen
 Photo date: 8 December 2016
