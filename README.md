@@ -51,6 +51,7 @@ Visit <http://localhost:8000>. Stop the server with **Ctrl+C**. This optional pr
 | `assets/css/` | Shared styling and responsive layouts. |
 | `assets/js/` | Configuration and small interface enhancements. |
 | `assets/images/cuhk-shenzhen.jpg` | Homepage campus photograph from the earlier AI Math Day event page. |
+| `assets/images/campus-map.jpg` | Full-resolution May 2026 campus guide from the earlier event materials; linked from the venue page for zooming. |
 | `assets/images/math-landscape.svg` | Original abstract mathematical illustration. |
 | `assets/images/math-lines.svg` | Original mathematical curves for the problem section. |
 
@@ -136,3 +137,5 @@ The mobile menu supports keyboard focus and Escape to close. Program filters rev
 The mathematical illustrations and favicon were created for this website and are not official university branding. They do not depict a campus map or confirm the event entrance. The homepage campus photograph is the image used on the earlier AI Math Day event page, copied unchanged from its public source repository. See `credits.html#campus-photo` and `IMAGE-LICENSE.txt` for its source. The previously referenced Wikimedia photograph remains a historical reference and is not included.
 
 The credits page also identifies sources used for historical background and travel information. Event-specific arrangements should be checked directly with the organizers before publication.
+
+The venue page includes a local copy of the May 2026 campus guide, with a link to open the full-resolution map. Its red annotations are from the earlier event and do not identify a confirmed December room or entrance. See `credits.html#campus-map` for the source.

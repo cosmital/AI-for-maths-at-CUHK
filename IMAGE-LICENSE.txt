@@ -9,6 +9,16 @@ The source image does not state a photographer or license. No attribution
 or license from the historical Wikimedia reference below is assigned to it.
 The photo illustrates campus, not a confirmed conference room or entrance.
 
+Campus map on the venue page
+Included file: assets/images/campus-map.jpg
+Source: CUHK-Shenzhen campus guide, May 2026 edition, from earlier event materials
+Source repository: https://github.com/rybindmitry/rybindmitry.github.io
+Source commit: 1fbb56e6be04d5a2821fcee3db6d0604b684ff1f
+Source file: images/campus map.jpg
+Copied unchanged (7027 x 4251 JPEG), including university labels and the
+source copy's red annotations. Those annotations concern the earlier event,
+not the December conference room or entrance. No new license is asserted.
+
 Historical Wikimedia reference (not included)
 --------------------------------------------
 Campus image: The South Gate .jpg
