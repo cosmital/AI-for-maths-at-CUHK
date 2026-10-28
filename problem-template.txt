@@ -1,0 +1,38 @@
+AI FOR MATHEMATICS AT CUHK-SHENZHEN
+Problem preparation template
+
+This template helps you prepare a contribution. It does not submit anything
+or register you for the December event.
+
+1. Problem title and mathematical area
+
+2. Your name and affiliation
+
+3. Precise statement
+   Define notation, assumptions, and the desired conclusion.
+
+4. Motivation and context
+   Why does the question matter? What related results are known?
+
+5. Current status
+   Open question / partial result / conjecture / computational question.
+   Include references and say which aspects you have checked.
+
+6. Previous approaches
+   Mathematical methods, computations, examples, and AI-assisted attempts.
+
+7. Verification
+   What would count as a solution or useful progress?
+   How could another researcher independently check the result?
+
+8. AI experiments, if any
+   Record tools/models, relevant prompts or code, time/computational effort,
+   results, and failure cases that others could learn from.
+
+9. Sharing
+   Indicate what you are willing to make public and acknowledge collaborators.
+
+Existing problem database and its submission link:
+https://rybindmitry.github.io/problems/index.html
+
+December presentation arrangements will be announced on the event website.

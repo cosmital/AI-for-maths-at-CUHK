@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AI Math CUHK-Shenzhen//Conference Draft//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ai-math-december-2026-draft@conference.local
+DTSTAMP:20261028T000000Z
+DTSTART:20261203T013000Z
+DTEND:20261203T093000Z
+SUMMARY:[Provisional] AI for Mathematics at CUHK-Shenzhen
+LOCATION:CUHK-Shenzhen - room to be announced
+DESCRIPTION:Proposed date and program. Check the conference website for conf
+ irmation before making travel arrangements. Local time: 09:30-17:30 UTC+8.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
