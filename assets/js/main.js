@@ -62,7 +62,7 @@
   all('.registration-open').forEach((el) => { el.hidden = !isOpen; });
   all('.registration-closed').forEach((el) => { el.hidden = isOpen; });
   if (isOpen) {
-    text('[data-registration-heading]', 'Register your interest.');
+    text('[data-registration-heading]', 'Registration form');
     text('[data-registration-message]', 'Use the organizer’s external form for attendance information and registration.');
     all('.registration-external').forEach((el) => { el.href = registrationUrl; });
   }

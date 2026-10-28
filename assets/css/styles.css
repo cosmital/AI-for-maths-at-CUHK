@@ -85,7 +85,6 @@ figcaption { font-size: .73rem; line-height: 1.6; padding-top: .75rem; }
 .hero h1 em { font-size: .78em; }
 .orange-dot { color: var(--accent); }
 .mini-rule { display: inline-block; width: 22px; height: 1px; background: currentColor; vertical-align: middle; margin-right: 8px; }
-.hero-tagline { font-family: var(--serif); font-size: 1.4rem; color: var(--ink); }
 .hero-description { max-width: 440px; font-size: .95rem; }
 .hero-note { font-size: .75rem; margin-top: 20px; }
 .hero-art-wrap { position: relative; background: var(--ink); overflow: hidden; }
@@ -128,8 +127,6 @@ dt { font-size: .68rem; letter-spacing: .09em; text-transform: uppercase; color:
 .final-split { border-top: 1px solid var(--line); }
 .site-footer { background: var(--ink); color: var(--paper); padding-block: 56px 22px; }
 .footer-top { display: flex; justify-content: space-between; gap: 32px; padding-bottom: 44px; }
-.footer-title { font-family: var(--serif); font-size: 2rem; line-height: 1.2; letter-spacing: -.025em; }
-.footer-title em { color: #f4b48e; }
 .footer-details { display: grid; gap: 3px; font-size: .8rem; color: #cdd5d9; }
 .footer-details strong { color: var(--paper); }
 .footer-details small { color: #f4b48e; font-size: .72rem; }
@@ -201,11 +198,8 @@ dt { font-size: .68rem; letter-spacing: .09em; text-transform: uppercase; color:
 .archive-date > span { font-family: var(--serif); font-size: 5rem; line-height: 1; }
 .archive-date strong { font-size: .8rem; margin-block: 10px; }
 .archive-date small { font-size: .6rem; letter-spacing: .1em; color: var(--accent); }
-.problem-quote { padding: 40px; background: var(--soft); }
-.quote-mark { color: var(--accent); font-family: var(--serif); font-size: 4rem; line-height: 1; }
-.problem-quote > p { color: var(--ink); font: 2.7rem/1.2 var(--serif); letter-spacing: -.025em; margin-block: 24px; }
-.problem-quote em { color: var(--accent); }
-.problem-quote .small { color: var(--muted); }
+.problem-guide { padding: 40px; background: var(--soft); }
+.problem-guide h2 { font-size: 2.2rem; }
 .problem-checklist { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; }
 .problem-checklist article { border-top: 1px solid var(--line); padding-top: 20px; }
 .problem-checklist article > span { display: block; color: var(--accent); font: 2rem/1.2 var(--serif); margin-bottom: 24px; }
@@ -275,7 +269,6 @@ address { font-style: normal; margin-bottom: 24px; }
   .hero, .section-heading, .split-section, .final-split, .registration-layout, .about-grid, .venue-lead, .problem-intro, .travel-layout, .faq-section { grid-template-columns: 1fr; gap: 32px; }
   .hero { padding-block: 40px 32px; }
   .hero h1 { font-size: clamp(3rem, 10vw, 4.8rem); }
-  .hero-tagline { font-size: 1.3rem; }
   .hero-description { max-width: 100%; }
   .hero .actions { gap: 16px; }
   .hero .button { padding-inline: 16px; }
@@ -323,8 +316,7 @@ address { font-style: normal; margin-bottom: 24px; }
   .registration-aside { padding-top: 12px; }
   .problem-checklist { grid-template-columns: 1fr 1fr; gap: 24px; }
   .problem-checklist article > span { margin-bottom: 16px; }
-  .problem-quote { padding: 28px; }
-  .problem-quote > p { font-size: 2.5rem; }
+  .problem-guide { padding: 28px; }
   .simple-callout, .visitor-note { padding: 24px; }
   .archive-panel { grid-template-columns: 1fr; gap: 24px; padding-block: 28px; }
   .archive-date { border-right: 0; border-bottom: 1px solid var(--line); padding-bottom: 24px; }
